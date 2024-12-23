@@ -89,7 +89,7 @@
         "price": 10.99,
         "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
         "category": "jewelery",
-        "image": "https://github.com/sudeep187/ujwalHealthcareImages/blob/main/bed.jpg",
+        "image": "https://raw.githubusercontent.com/sudeep187/ujwalHealthcareImages/refs/heads/main/bed2.png",
         "rating": {
             "rate": 1.9,
             "count": 100
